@@ -1,0 +1,836 @@
+position
+[White "unknown"]
+[Black "Crafty 19.17"]
+[Date "2004.10.16"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 600}
+[White "unknown"]
+[Black "Crafty 19.17"]
+[Date "2004.10.17"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 600}
+[White "unknown"]
+[Black "Crafty 19.17"]
+[Date "2004.10.17"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 600}
+[White "unknown"]
+[Black "Crafty 19.17"]
+[Date "2004.10.17"]
+setboard rn1qkb1r/ppp1pppp/5n/3p1b/3P1B/2N1P/PPP2PPP/R2QKBNR/ b KQkq
+{-52 10809 480}
+[White "unknown"]
+[Black "Crafty 19.17"]
+[Date "2004.10.17"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 600}
+[White "Crafty 19.17"]
+[Black "unknown"]
+[Date "2004.10.18"]
+setboard r1bqkb1r/p1p2ppp/p4n/3p/5N/2N/PPPP1PPP/R1BQK2R/ w KQkq
+{39 12676 600}
+[White "Crafty 19.17"]
+[Black "unknown"]
+[Date "2004.10.18"]
+setboard r1bqk2r/p1p1bppp/p4n/3p/5N/2N/PPPP1PPP/R1BQ1RK/ w kq
+{14 24837 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.08"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard r1bq1rk/ppppbppp/2n/4P/2Bp2n/5N1P/PPP2PP/RNBQR1K/ b 
+{-77 11230 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard rnbqkbnr/ppp2ppp//3Pp//2N/PPPP1PPP/R1BQKBNR/ b KQkq
+{-75 11134 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.09"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkb1r/pppp1p1p/7n/6p/2B1Pp/5N/PPPP2PP/RNBQ1RK/ b kq
+{22 10937 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.10"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/ppp1pppp///3Pp/2N/PPP2PPP/R1BQKBNR/ b KQkq
+{26 22906 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqk1nr/ppppppbp/6p//3PP/5N/PPP2PPP/RNBQKB1R/ b KQkq
+{-77 6964 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6964 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2007.07.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.03.15"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.03.16"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.03.16"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.20"]
+setboard r3kb1r/pppqpppp/2n/3n//5N/PPPP1PPP/RNBQ1RK/ w kq
+{-42 5835 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkb1r/ppp1pppp/5n/1B1P///PPPP1PPP/RNBQK1NR/ b KQkq
+{-42 23802 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r2qkb1r/pppn2pp/4pn//2P/5N/PP1P1PPP/RNBQK2R/ b KQkq
+{-96 23293 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6964 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnb1kb1r/ppp1pppp//6q/3P2n/2N2B/PPP1NPPP/R1BQK2R/ b KQkq
+{-132 30694 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r1b1k2r/ppp1bppp/nN2p2n//3P1BP/1P3B1P/P1P1NP/R2QK2R/ b KQkq
+{-738 72304 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppp1ppp//4p/4P/5N/PPPP1PPP/RNBQKB1R/ b KQkq
+{-38 11134 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard 2kr3r/pppn2pp/5n/2b1p/2P/2NP1N/PP3PPP/R1B2RK/ b 
+{-99 15994 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r3kb1r/pppnqppp/4Pn//2P//PP1PQPPP/RNB1K1NR/ b KQkq
+{-73 64308 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rn1qkb1r/pppBpppp/5n/3P///PPPP1PPP/RNBQK1NR/ b KQkq
+{-42 195835 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r3kb1r/pppnqppp/4Pn//2P//PP1PQPPP/RNB1K1NR/ b KQkq
+{-69 64308 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r3k2r/pppn2pp/5n/2b1p1N/2P//PP1P1PPP/RNB2RK/ b kq
+{-85 16316 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r5k/pp2r1p/2p2n1p/2n1p/2PbN/2NPB/PP3PPP/3R1RK/ b 
+{-100 75565 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.20"]
+setboard r3kb1r/ppp1pppp/2n2n/3q//5N/PPPP1PPP/RNBQ1RK/ w kq
+{-35 9345 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkb1r/1pp1pppp/1n//p/2P2N/PPBP1PPP/RNBQK2R/ b KQkq
+{-42 22458 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/ppp2ppp//3Pp//5N/PPPP1PPP/RNBQKB1R/ b KQkq
+{-65 5924 360}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkb1r/ppp1pppp/5n/1B1P///PPPP1PPP/RNBQK1NR/ b KQkq
+{-50 23802 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard 2kr1b1r/pppn2pp/5n/4p/2P/3P1N/PP3PPP/RNB2RK/ b 
+{-90 22717 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard 1k1r3r/pppn2pp/5n/2b1p/2P/2NP1N/PP3PPP/R1B1R1K/ b 
+{-99 7159 420}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.19"]
+setboard r3kb1r/ppp1pppp/2n2n/3q//5N/PPPP1PPP/RNBQ1RK/ w kq
+{-35 9345 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard 3r3r/1pN2kpp/4p2q/1Qn2p/P/6P/1P3P1P/R4RK/ b 
+{-144 10018 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard 3r3r/Q1N2kpp/4p2q/5p/P3n/6P/1P3P1P/R2R2K/ b 
+{-230 28543 420}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.19"]
+setboard r3kb1r/ppp1pppp/2n2n/3q//5N/PPPP1PPP/RNBQ1RK/ w kq
+{-35 9345 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard 2kr1b1r/ppp1pppp/2n/3n1qN//2NP1Q/PPP2PPP/R1B2RK/ b 
+{-80 259429 600}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r1bqkb1r/ppppPpp/2n/4p2p/P2PN/5N/1PP2PPP/R1BQKB1R/ b KQkq e6
+{-316 39731 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard r1bqkb1r/ppppPpp/2n/4p2p/P2PN/5N/1PP2PPP/R1BQKB1R/ b KQkq e6
+{-316 39731 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/ppp1pppp//3P///PPPP1PPP/RNBQKBNR/ b KQkq
+{-37 63739 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.20"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "Crafty 19.20 BH"]
+[Black "unknown"]
+[Date "2008.04.20"]
+setboard r1bq1rk/p1pp1ppp//1p1P/1bBnp//PPPP1PPP/R1BQNRK/ w 
+{-53 21274 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.19"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.04.21"]
+setboard rnbq1rk/ppp2ppp//3nN/1b/3P/PPPBBPPP/RN1QK2R/ b KQ
+{18 185049 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.11"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.12"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-33 6452 540}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
+[White "unknown"]
+[Black "Crafty 19.20 BH"]
+[Date "2008.05.21"]
+setboard rnbqkbnr/pppppppp///4P//PPPP1PPP/RNBQKBNR/ b KQkq
+{-34 6387 480}
