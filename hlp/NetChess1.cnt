@@ -1,0 +1,16 @@
+:Base NetChess2.1.hlp
+1 NetChess 2.0 Help Index
+2 Introduction=main_index
+2 Installation=Installation
+2 How to Play=How to Play
+1 Commands
+2 File menu=menu_file
+2 Edit menu=menu_edit
+2 View menu=menu_view
+2 White Engine=menu_white_engine
+2 Black Engine=menu_black_engine
+2 Tools menu=menu_tools
+2 Help menu=menu_help
+1 Toolbar
+1 Statusbar
+1 Troublingshooting
