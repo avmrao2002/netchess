@@ -1,0 +1,212 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: NetChess - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP81.bat" with contents
+[
+@echo off
+start /wait hcw /C /E /M "hlp\NetChess.hpj"
+if errorlevel 1 goto :Error
+if not exist "hlp\NetChess.hlp" goto :Error
+copy "hlp\NetChess.hlp" .\Debug
+goto :done
+:Error
+echo hlp\NetChess.hpj(1) : error:
+type "hlp\NetChess.log"
+:done
+]
+Creating command line ""d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP81.bat""
+Creating command line "rc.exe /l 0x409 /fo"Debug/NetChess.res" /d "_DEBUG" "D:\avm\avm2\software\NetChess\NetChess.rc"" 
+Performing Custom Build Step on .\hlp\NetChess.hpj
+        1 file(s) copied.
+Creating temporary file "d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP88.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/NetChess.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\avm\avm2\software\NetChess\AcceptDlg.cpp"
+"D:\avm\avm2\software\NetChess\ChessBoard.cpp"
+"D:\avm\avm2\software\NetChess\ClientSocket.cpp"
+"D:\avm\avm2\software\NetChess\CommentDlg.cpp"
+"D:\avm\avm2\software\NetChess\ConvertDlg.cpp"
+"D:\avm\avm2\software\NetChess\DemoIntervalDlg.cpp"
+"D:\avm\avm2\software\NetChess\Engine.cpp"
+"D:\avm\avm2\software\NetChess\EngineConfigDlg.cpp"
+"D:\avm\avm2\software\NetChess\EngineLevelDlg.cpp"
+"D:\avm\avm2\software\NetChess\EngineLogDlg.cpp"
+"D:\avm\avm2\software\NetChess\EnterMoveDlg.cpp"
+"D:\avm\avm2\software\NetChess\GameStateDlg.cpp"
+"D:\avm\avm2\software\NetChess\GameStateInfoDlg.cpp"
+"D:\avm\avm2\software\NetChess\GoToMoveHistoryDlg.cpp"
+"D:\avm\avm2\software\NetChess\GoToPGNGameDlg.cpp"
+"D:\avm\avm2\software\NetChess\GroupButton.cpp"
+"D:\avm\avm2\software\NetChess\History.cpp"
+"D:\avm\avm2\software\NetChess\HistoryDlg.cpp"
+"D:\avm\avm2\software\NetChess\HowToPlayDlg.cpp"
+"D:\avm\avm2\software\NetChess\ICSClient.cpp"
+"D:\avm\avm2\software\NetChess\ICSConfigureDlg.cpp"
+"D:\avm\avm2\software\NetChess\ICSMessageChatDlg.cpp"
+"D:\avm\avm2\software\NetChess\ICSPlayersListDlg.cpp"
+"D:\avm\avm2\software\NetChess\ICSWindowDlg.cpp"
+"D:\avm\avm2\software\NetChess\LostPieceDlg.cpp"
+"D:\avm\avm2\software\NetChess\MailFromDlg.cpp"
+"D:\avm\avm2\software\NetChess\MailToDlg.cpp"
+"D:\avm\avm2\software\NetChess\MainFrm.cpp"
+"D:\avm\avm2\software\NetChess\MessageSend.cpp"
+"D:\avm\avm2\software\NetChess\MyColorDialog.cpp"
+"D:\avm\avm2\software\NetChess\MyColorEdit.cpp"
+"D:\avm\avm2\software\NetChess\NetChess.cpp"
+"D:\avm\avm2\software\NetChess\NetChessDoc.cpp"
+"D:\avm\avm2\software\NetChess\NetChessLogDlg.cpp"
+"D:\avm\avm2\software\NetChess\NetChessView.cpp"
+"D:\avm\avm2\software\NetChess\ObserversDlg.cpp"
+"D:\avm\avm2\software\NetChess\Options.cpp"
+"D:\avm\avm2\software\NetChess\PGNDlg.cpp"
+"D:\avm\avm2\software\NetChess\PGNGameInfoDlg.cpp"
+"D:\avm\avm2\software\NetChess\PickPieceDlg.cpp"
+"D:\avm\avm2\software\NetChess\Pop3.cpp"
+"D:\avm\avm2\software\NetChess\PropertiesDlg.cpp"
+"D:\avm\avm2\software\NetChess\SeekListDlg.cpp"
+"D:\avm\avm2\software\NetChess\ServerInfoDlg.cpp"
+"D:\avm\avm2\software\NetChess\ServerSocket.cpp"
+"D:\avm\avm2\software\NetChess\Smtp.cpp"
+"D:\avm\avm2\software\NetChess\TimeControlDlg.cpp"
+"D:\avm\avm2\software\NetChess\UCIEngineOptions.cpp"
+"D:\avm\avm2\software\NetChess\ViewImage.cpp"
+]
+Creating command line "cl.exe @"d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP88.tmp"" 
+Creating temporary file "d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP89.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/NetChess.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\avm\avm2\software\NetChess\StdAfx.cpp"
+]
+Creating command line "cl.exe @"d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP89.tmp"" 
+Creating temporary file "d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP8A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/NetChess2.1.pdb" /debug /machine:I386 /out:"Debug/NetChess2.1.exe" /pdbtype:sept 
+.\Debug\AcceptDlg.obj
+.\Debug\ChessBoard.obj
+.\Debug\ClientSocket.obj
+.\Debug\CommentDlg.obj
+.\Debug\ConvertDlg.obj
+.\Debug\DemoIntervalDlg.obj
+.\Debug\Engine.obj
+.\Debug\EngineConfigDlg.obj
+.\Debug\EngineLevelDlg.obj
+.\Debug\EngineLogDlg.obj
+.\Debug\EnterMoveDlg.obj
+.\Debug\GameStateDlg.obj
+.\Debug\GameStateInfoDlg.obj
+.\Debug\GoToMoveHistoryDlg.obj
+.\Debug\GoToPGNGameDlg.obj
+.\Debug\GroupButton.obj
+.\Debug\History.obj
+.\Debug\HistoryDlg.obj
+.\Debug\HowToPlayDlg.obj
+.\Debug\ICSClient.obj
+.\Debug\ICSConfigureDlg.obj
+.\Debug\ICSMessageChatDlg.obj
+.\Debug\ICSPlayersListDlg.obj
+.\Debug\ICSWindowDlg.obj
+.\Debug\LostPieceDlg.obj
+.\Debug\MailFromDlg.obj
+.\Debug\MailToDlg.obj
+.\Debug\MainFrm.obj
+.\Debug\MessageSend.obj
+.\Debug\MyColorDialog.obj
+.\Debug\MyColorEdit.obj
+.\Debug\NetChess.obj
+.\Debug\NetChessDoc.obj
+.\Debug\NetChessLogDlg.obj
+.\Debug\NetChessView.obj
+.\Debug\ObserversDlg.obj
+.\Debug\Options.obj
+.\Debug\PGNDlg.obj
+.\Debug\PGNGameInfoDlg.obj
+.\Debug\PickPieceDlg.obj
+.\Debug\Pop3.obj
+.\Debug\PropertiesDlg.obj
+.\Debug\SeekListDlg.obj
+.\Debug\ServerInfoDlg.obj
+.\Debug\ServerSocket.obj
+.\Debug\Smtp.obj
+.\Debug\StdAfx.obj
+.\Debug\TimeControlDlg.obj
+.\Debug\UCIEngineOptions.obj
+.\Debug\ViewImage.obj
+.\Debug\NetChess.res
+]
+Creating command line "link.exe @"d:\Documents and Settings\Administrator.VSSC.000\Local Settings\Temp\RSP8A.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AcceptDlg.cpp
+D:\avm\avm2\software\NetChess\AcceptDlg.cpp(10) : warning C4006: #undef expected an identifier
+D:\avm\avm2\software\NetChess\AcceptDlg.cpp(10) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+ChessBoard.cpp
+ClientSocket.cpp
+CommentDlg.cpp
+ConvertDlg.cpp
+DemoIntervalDlg.cpp
+Engine.cpp
+EngineConfigDlg.cpp
+EngineLevelDlg.cpp
+EngineLogDlg.cpp
+EnterMoveDlg.cpp
+GameStateDlg.cpp
+GameStateInfoDlg.cpp
+GoToMoveHistoryDlg.cpp
+GoToPGNGameDlg.cpp
+D:\avm\avm2\software\NetChess\GoToPGNGameDlg.cpp(140) : warning C4018: '<' : signed/unsigned mismatch
+GroupButton.cpp
+History.cpp
+HistoryDlg.cpp
+HowToPlayDlg.cpp
+ICSClient.cpp
+Generating Code...
+Compiling...
+ICSConfigureDlg.cpp
+ICSMessageChatDlg.cpp
+ICSPlayersListDlg.cpp
+ICSWindowDlg.cpp
+LostPieceDlg.cpp
+MailFromDlg.cpp
+MailToDlg.cpp
+MainFrm.cpp
+MessageSend.cpp
+MyColorDialog.cpp
+MyColorEdit.cpp
+NetChess.cpp
+NetChessDoc.cpp
+NetChessLogDlg.cpp
+NetChessView.cpp
+ObserversDlg.cpp
+Options.cpp
+PGNDlg.cpp
+PGNGameInfoDlg.cpp
+PickPieceDlg.cpp
+Generating Code...
+Compiling...
+Pop3.cpp
+PropertiesDlg.cpp
+SeekListDlg.cpp
+ServerInfoDlg.cpp
+ServerSocket.cpp
+Smtp.cpp
+TimeControlDlg.cpp
+UCIEngineOptions.cpp
+ViewImage.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+NetChess2.1.exe - 0 error(s), 3 warning(s)
+</pre>
+</body>
+</html>

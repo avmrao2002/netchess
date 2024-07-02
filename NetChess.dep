@@ -1,0 +1,511 @@
+# Microsoft Developer Studio Generated Dependency File, included by NetChess.mak
+
+.\AcceptDlg.cpp : \
+	".\AcceptDlg.h"\
+	".\NetChess.h"\
+	
+
+.\ChessBoard.cpp : \
+	".\ChessBoard.h"\
+	
+
+.\ClientSocket.cpp : \
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\CommentDlg.cpp : \
+	".\CommentDlg.h"\
+	".\NetChess.h"\
+	
+
+.\ConvertDlg.cpp : \
+	".\ConvertDlg.h"\
+	".\NetChess.h"\
+	
+
+.\DemoIntervalDlg.cpp : \
+	".\DemoIntervalDlg.h"\
+	".\NetChess.h"\
+	
+
+.\Engine.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\EngineConfigDlg.cpp : \
+	".\EngineConfigDlg.h"\
+	".\NetChess.h"\
+	
+
+.\EngineLevelDlg.cpp : \
+	".\EngineLevelDlg.h"\
+	".\NetChess.h"\
+	
+
+.\EngineLogDlg.cpp : \
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLogDlg.h"\
+	".\NetChess.h"\
+	
+
+.\EnterMoveDlg.cpp : \
+	".\EnterMoveDlg.h"\
+	".\NetChess.h"\
+	
+
+.\GameStateDlg.cpp : \
+	".\GameStateDlg.h"\
+	".\NetChess.h"\
+	
+
+.\GameStateInfoDlg.cpp : \
+	".\GameStateInfoDlg.h"\
+	".\NetChess.h"\
+	
+
+.\GoToMoveHistoryDlg.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\GoToMoveHistoryDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MainFrm.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\GoToPGNGameDlg.cpp : \
+	".\GoToPGNGameDlg.h"\
+	".\NetChess.h"\
+	
+
+.\History.cpp : \
+	".\History.h"\
+	
+
+.\HistoryDlg.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\HistoryDlg.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\HowToPlayDlg.cpp : \
+	".\HowToPlayDlg.h"\
+	".\NetChess.h"\
+	
+
+.\ICSClient.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\ICSConfigureDlg.cpp : \
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\ICSWindowDlg.cpp : \
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\LostPieceDlg.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\LostPieceDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\MainFrm.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MainFrm.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\MessageSend.cpp : \
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MessageSend.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\MyColorDialog.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorDialog.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\MyColorEdit.cpp : \
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	
+
+.\NetChess.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MainFrm.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+!IF  "$(CFG)" == "NetChess - Win32 Release"
+
+!ELSEIF  "$(CFG)" == "NetChess - Win32 Debug"
+
+!ENDIF 
+
+.\NetChess.rc : \
+	".\res\base.bmp"\
+	".\res\base2.bmp"\
+	".\res\base3.bmp"\
+	".\res\BISHOP.BMP"\
+	".\res\BISHOPO.BMP"\
+	".\res\icon1.ico"\
+	".\res\KING.BMP"\
+	".\res\KINGO.BMP"\
+	".\res\KNIGHT.BMP"\
+	".\res\KNIGHTO.BMP"\
+	".\res\LDAPExplorer.ico"\
+	".\res\mainfram_extended.bmp"\
+	".\res\NetChess.ico"\
+	".\res\NetChess.rc2"\
+	".\res\NetChessDoc.ico"\
+	".\res\PAWN.BMP"\
+	".\res\PAWNO.BMP"\
+	".\res\QUEEN.BMP"\
+	".\res\QUEENO.BMP"\
+	".\res\ROOK.BMP"\
+	".\res\ROOKO.BMP"\
+	".\res\Toolbar.bmp"\
+	
+
+.\NetChessDoc.cpp : \
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	
+
+.\NetChessLogDlg.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessLogDlg.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\NetChessView.cpp : \
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\CommentDlg.h"\
+	".\ConvertDlg.h"\
+	".\DemoIntervalDlg.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\EngineLogDlg.h"\
+	".\EnterMoveDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\GoToMoveHistoryDlg.h"\
+	".\GoToPGNGameDlg.h"\
+	".\History.h"\
+	".\HistoryDlg.h"\
+	".\HowToPlayDlg.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\LostPieceDlg.h"\
+	".\MainFrm.h"\
+	".\MessageSend.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessLogDlg.h"\
+	".\NetChessView.h"\
+	".\ObserversDlg.h"\
+	".\Options.h"\
+	".\PGNDlg.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	".\PropertiesDlg.h"\
+	".\ServerInfoDlg.h"\
+	".\ServerSocket.h"\
+	".\UCIEngineOptions.h"\
+	".\ViewImage.h"\
+	
+
+.\ObserversDlg.cpp : \
+	".\NetChess.h"\
+	".\ObserversDlg.h"\
+	
+
+.\Options.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorDialog.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\PGNDlg.cpp : \
+	".\NetChess.h"\
+	".\PGNDlg.h"\
+	
+
+.\PGNGameInfoDlg.cpp : \
+	".\NetChess.h"\
+	".\PGNGameInfoDlg.h"\
+	
+
+.\PickPieceDlg.cpp : \
+	".\ChessBoard.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	
+
+.\PropertiesDlg.cpp : \
+	".\NetChess.h"\
+	".\PropertiesDlg.h"\
+	
+
+.\ServerInfoDlg.cpp : \
+	".\NetChess.h"\
+	".\ServerInfoDlg.h"\
+	
+
+.\ServerSocket.cpp : \
+	".\AcceptDlg.h"\
+	".\ChessBoard.h"\
+	".\ClientSocket.h"\
+	".\Engine.h"\
+	".\EngineConfigDlg.h"\
+	".\EngineLevelDlg.h"\
+	".\GameStateInfoDlg.h"\
+	".\History.h"\
+	".\ICSClient.h"\
+	".\ICSConfigureDlg.h"\
+	".\ICSWindowDlg.h"\
+	".\MyColorEdit.h"\
+	".\NetChess.h"\
+	".\NetChessDoc.h"\
+	".\NetChessView.h"\
+	".\Options.h"\
+	".\PGNGameInfoDlg.h"\
+	".\PickPieceDlg.h"\
+	".\ServerSocket.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\UCIEngineOptions.cpp : \
+	".\NetChess.h"\
+	".\UCIEngineOptions.h"\
+	
+
+.\ViewImage.cpp : \
+	".\NetChess.h"\
+	".\ViewImage.h"\
+	

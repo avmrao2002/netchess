@@ -1,0 +1,15 @@
+1. Server:
+	1. I can be standalone - either white or black manual
+	2. I can be white engine - only white engine can play
+	3. I can be black engine - only black engine can play
+	4. I can be ICS Server - only ICS Server can play
+2. Client:
+	1. I can be standalone - either white or black manual
+	2. I can be white engine - only white engine can play
+	3. I can be black engine - only black engine can play
+	4. I can be ICS Server - only ICS Server can play
+4. Black Engine Vs White Engine - only Black & white engines can play
+5. Black Engine Vs ICS - only Black Engine and ICS engine play
+6. White Engine Vs ICS - only White engine and ICS engine
+7. Standalone - manu playing both white and black on the same board
+8. Observers can watch the matches -- 
